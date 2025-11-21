@@ -3,4 +3,5 @@ def celcius_to_fahrenheit(celcius):
     return fahrenheit
       
 print(celcius_to_fahrenheit(0))
+
 print(celcius_to_fahrenheit(100))
